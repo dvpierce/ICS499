@@ -1,3 +1,5 @@
+# Python 2.x Application to preview and split PDF files.
+
 import wx
 import wx.lib.sized_controls as sc
 
